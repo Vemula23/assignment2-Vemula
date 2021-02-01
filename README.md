@@ -67,5 +67,5 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
  ---
 
  ![book](images/book.PNG)
-![horse](images/horse.png)
-![butterfly](images/butterfly.png)
+![horse](images/horse.PNG)
+![butterfly](images/butterfly.PNG)
