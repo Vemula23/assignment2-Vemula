@@ -19,11 +19,15 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
 
 ---
 # UNORDERED LIST
-* #### For curry
-* Heat Oil in a pan on medium to high.Add Green Cardamom, Cloves, Cinnamon and Cumin Seeds.
-* Add Onions and saute until golden brown.Add Ginger and Garlic Paste and cook until the Garlic aroma disappears.
-       * Add slit Green Chillies, Coriander Powder, Kashmiri Lal Mirch, Turmeric and Salt.Mix well and cook for 2 minutes.Add Tomatoes and mix well. Cook for 4 to 5 minutes till tomatoes are properly cooked.
-       * Add Water and mix well.Cover the pan and cook for 3 to 5 minutes on medium heat.Remove lid, add Garam Masala and mix well.Add seasoned eggs and Cilantro. 
-* Cover with lid and cook for 4 more minutes on medium.Remove the lid and stir.Serve with Plain Rice or Chapati.
+
+#### For curry
+
+* Boil eggs.
+   * put water.
+   * turn on the gas.
+   * heat for 10 mins.
+* remove the shell from the eggs.
+* season the eggs.
+
  
 ---
