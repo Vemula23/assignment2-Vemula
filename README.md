@@ -33,4 +33,13 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
 ---
  if u want to know more about me [About me](https://github.com/Vemula23/assignment2-Vemula/blob/main/AboutMe.md) 
  ---
+
  
+ ###### Places to visit in Guntur
+ 
+| Location  |      Hours    |  Amount |
+|:----------|:-------------:|--------:|
+|   Amaravati |   2hrs        |  6000   |   
+|  PVR Mall |   3hrs       |  20000   |   
+|  Nagarjuna Sagar |   3hrs        |  5000   |
+| prakasam Barriage|    1hr        | 2000    |
