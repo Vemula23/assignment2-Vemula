@@ -47,7 +47,20 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
 ---
 > I love you the more in that I believe you had liked me for my own sake and for nothing else.
                                                                                           ~John Keats
-                                                                                          
+
 > Let us sacrifice our today so that our children can have a better tomorrow.
                      ~ A. P. J.AbdulKalam   
 ---                                                                                                            
+#### Live script
+> LiveScript is a functional programming language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others. Not to be confused with JavaScript (for a brief period in the 1990s, LiveScript was the name of JavaScript).
+[learn more](https://en.wikipedia.org/wiki/LiveScript)
+~~~hello-world = ->
+  console.log 'Hello, World!'
+  111 |> (+) 222
+ > 333
+
+(+) 1 2
+ > 3
+ ~~~
+ [code source](https://en.wikipedia.org/wiki/LiveScript)
+ ---
