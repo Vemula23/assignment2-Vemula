@@ -10,14 +10,15 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
 ## MAKING OF EGG CURRY IN PUNJABI STYLE
 
  #### For seasoning Eggs
-1. Heat oil in a pan.
-2. Add Kashmiri Red Chilli Powder, Turmeric and Salt
-3. Poke Boiled Eggs with a toothpick so it can soak the seasonings.
-       1. Add eggs to the seasoned oil.             
-       2. pan fry for couple of minute.
-4. Once you see the eggs are coated with the seasoning, turn off heal and keep the eggs aside.
+1. Boil eggs.
+   1. put water.
+   2. turn on the gas.
+   3. heat for 10 mins.
+2. remove the shell from the eggs.
+3. season the eggs.  
 
 ---
+# UNORDERED LIST
 * #### For curry
 * Heat Oil in a pan on medium to high.Add Green Cardamom, Cloves, Cinnamon and Cumin Seeds.
 * Add Onions and saute until golden brown.Add Ginger and Garlic Paste and cook until the Garlic aroma disappears.
