@@ -43,3 +43,10 @@ Kalakand is a popular sweet made in **india**. it is made using ingridients like
 |  PVR Mall |   3hrs       |  20000   |   
 |  Nagarjuna Sagar |   3hrs        |  5000   |
 | prakasam Barriage|    1hr        | 2000    |
+
+---
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+                                                                                          ~John Keats
+> Let us sacrifice our today so that our children can have a better tomorrow.
+                     ~ A. P. J.AbdulKalam   
+---                                                                                                            
