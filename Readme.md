@@ -70,10 +70,10 @@ The structure of the Prakasam Barrage stretches 1223.5 m across the Krishna Rive
 
 ---
 > I love you the more in that I believe you had liked me for my own sake and for nothing else.
-                                                                                          ~John Keats
+                                                            ~John Keats
 
 > Let us sacrifice our today so that our children can have a better tomorrow.
-                     ~ A. P. J.AbdulKalam   
+                                                    ~ A. P. J.AbdulKalam   
 ---                                                                                                            
 #### Live script
 > LiveScript is a functional programming language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others. Not to be confused with JavaScript (for a brief period in the 1990s, LiveScript was the name of JavaScript).
